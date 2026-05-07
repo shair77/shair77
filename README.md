@@ -12,7 +12,7 @@
 ### 💡 About Me
 
 -  I'm a **Computer Science & Engineering** student at **SRMIST, Chennai**
--  I'm currently exploring **AI**, **YOLO Object Detction Models**, **LangChain**, and **Cybersecurity**
+-  I'm currently exploring **AI**, **YOLO Object Detection Models**, **LangChain**, and **Cybersecurity**
 -  I'm passionate about building tools that create **real-world social impact**.
 -  Ask me about **Python, C++, Java, Ultralytics, Secure Systems**
 -  Reach me at: `shairviraj@gmail.com`
