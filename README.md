@@ -15,7 +15,7 @@
 -  I'm currently exploring **AI**, **YOLO Object Detection Models**, **LangChain**, and **Cybersecurity**
 -  I'm passionate about building tools that create **real-world social impact**.
 -  Ask me about **Python, C++, Java, Ultralytics, Secure Systems**
--  Reach me at: `shairviraj@gmail.com`
+-  Reach me at: `rshairvi@gmail.com`
 -  Portfolio / Projects coming soon!
 
 ---
